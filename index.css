@@ -1,12 +1,17 @@
 .logo{
+    
     width: 150px;
     margin-left: 100px;
 }
 
 .main-name{
-    
-    \
+color: blue;
 
+}
 
-    
+.main_menu{
+height: 120px;
+width: 1000px;
+margin-left: 250px;
+
 }
